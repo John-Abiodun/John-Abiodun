@@ -1,11 +1,10 @@
 Hi, I'm John Abiodun
 Currently studying at Covenant University, Ota — Financial Technology, Year 2  
-WordPress Web Designer | Learning C & Python  
+WordPress Web Designer | Learning C & Python  | Machine Learning
 Lagos, Nigeria
 
 Skills
-WordPress · Elementor · Video editing
-C · Python
+WordPress · Elementor · Video editing . Data Analysis . C · Python
 
 Projects
 - C Projects: https://github.com/John-Abiodun/C-projects 
